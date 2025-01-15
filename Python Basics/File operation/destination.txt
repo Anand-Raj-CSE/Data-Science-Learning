@@ -1,0 +1,6 @@
+I am saying hello world.
+This is a new fileI am Anand Raj
+I am an aspiring Data Scientist.
+Append operation taking placeFirst Line 
+second line
+Third line
